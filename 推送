@@ -1,0 +1,10 @@
+姐姐姐姐！早早早早早！ 
+{{date.DATA}}
+城市:{{city.DATA}} 
+天气：{{weather.DATA}} 
+最低气温:{{min_temperature.DATA}}
+最高气温:{{ma_temperature.DATA}}
+在一起已经{{love_day.DATA}}
+距离你生日还有{{shengri1.DATA}}天 
+距离我的生日还有{{shengri2.DATA}}天 
+时间里的答案 我们慢慢走 慢慢看
